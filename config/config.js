@@ -9,7 +9,7 @@ const config = {
     ignore_traits: ['date'], 
     sqlite_file_name: 'database_wonderland_wizards.sqlite',
     ga: '',
-    main_og_image: 'https://onedaypunk-rarity-tool.herokuapp.com/images/og.png',
+    main_og_image: 'https://gateway.pinata.cloud/ipfs/bafkreia4bnfuesb5avcguydutexgy6o7djhj5f4a5bqk62na4ikfvmqyyy',
     item_path_name: 'punk',
     page_item_num: 20,
     content_image_is_video: false,
